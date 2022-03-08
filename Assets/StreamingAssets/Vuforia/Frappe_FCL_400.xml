@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Frappe_FCL_400" motionHint="static" trackingMode="car"/>
+
+</Tracking>
+
+<Assembly name="Frappe_FCL_400s_assembly" assemblyId="762817b393d5480490ead1121b215b6e">
+<Part name="Frappe_FCL_400" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.241573 0.557806 2.09015" rotation="AD: 1 1.4135731496076685e-16 -2.4925108548087558e-17 200" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.199018 0.539863 2.10725" rotation="AD: 0.017586954812904003 -1.01527429941689 5.757906676208118 180.061" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

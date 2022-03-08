@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "293526686265",
+    "firebase_url": "https://acipoc1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "acipoc1",
+    "storage_bucket": "acipoc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293526686265:android:9343fab11d0047987edbe8",
+        "android_client_info": {
+          "package_name": "be.thomasmore.ACIPOC1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293526686265-ehmilco88i0ai2vs2mvrpgksnlfu80sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEHgh0mghLWy5APUcsdWxK6q0wOo5HDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293526686265-ehmilco88i0ai2vs2mvrpgksnlfu80sk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293526686265-aqdenrcg19mecgd01rofel48stcjohuu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "be.thomasmore.ACIPOC1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293526686265:android:ed5f61808009e1717edbe8",
+        "android_client_info": {
+          "package_name": "be.thomasmore.aci1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293526686265-ehmilco88i0ai2vs2mvrpgksnlfu80sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEHgh0mghLWy5APUcsdWxK6q0wOo5HDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293526686265-ehmilco88i0ai2vs2mvrpgksnlfu80sk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293526686265-aqdenrcg19mecgd01rofel48stcjohuu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "be.thomasmore.ACIPOC1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

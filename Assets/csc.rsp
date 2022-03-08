@@ -1,0 +1,5 @@
+-r:System.IO.Compression.FileSystem.dll
+-r:System.IO.Compression.dll
+-r:System.Runtime.dll
+-r:System.Threading.Tasks.dll
+-r:System.Net.Http.dll

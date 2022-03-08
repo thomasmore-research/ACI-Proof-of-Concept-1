@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="Norta_Standard" targetId="50be253bfa804f3b81df7d0e61ea614c" version="11.1" toolVersion="9.8.5" bbox="-0.187305 -0.010014 -1.025798 0.190380 1.008720 0.744030" previewImage="50be253bfa804f3b81df7d0e61ea614c_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Norta_Standards_assembly" assemblyId="e280d0e49ad341cc81bbc0125edfa27d">
+<Part name="Norta_Standard" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0002" translation="-0.103855 0.518904 2.00901" rotation="AD: -0.9937054538588773 -0.15939457590717374 1.0063777450649054 167.379" image="Norta_Standard_viewpoint_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.113394 0.531831 2.02984" rotation="AD: 0.9938326389795931 -0.1591355364796379 0.9900950114584427 192.91" image="Norta_Standard_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

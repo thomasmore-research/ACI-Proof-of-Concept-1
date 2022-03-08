@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="blue_bike" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="blue_bikes_assembly" assemblyId="efdd29e1733b468ba611b83e60561859">
+<Part name="blue_bike" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0156887 0.17138 0.958166" rotation="AD: 0.99467884144193 0.1959975278349186 -0.6530136754298578 207.81" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.019952 0.0731716 1.01351" rotation="AD: -0.02744714629400064 -1.0680986433094195 2.8385597224715924 179.61" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Trek_Allant_9S" motionHint="static" trackingMode="car"/>
+
+</Tracking>
+
+<Assembly name="Trek_Allant_9Ss_assembly" assemblyId="e5d0714c4de54a24afc2fc25e2e25637">
+<Part name="Trek_Allant_9S" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00181389 0.49967 2.07266" rotation="AD: 0.9925457622760918 0.17501259747712494 -0.9925457622760914 194.106" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.0616562 0.504654 2.12782" rotation="AD: 0.9905583988054004 -0.19759383695078933 0.9915125526090299 195.88" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

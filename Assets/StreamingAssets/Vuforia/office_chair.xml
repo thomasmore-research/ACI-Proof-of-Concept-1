@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="office_chair" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="office_chairs_assembly" assemblyId="0717517f137c4e2fbb1c2232ba4fab4f">
+<Part name="office_chair" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0370516 0.0877429 3.5151" rotation="AD: 0.9999999999536536 -0.0018832390232284572 0.005412964088325309 218.366" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.146188 -0.24107 2.6271" rotation="AD: -0.7542630441185338 -0.7655495536504365 1.865271661083086 163.634" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

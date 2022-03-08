@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Tern_Link_C8" motionHint="static" trackingMode="car"/>
+
+</Tracking>
+
+<Assembly name="Tern_Link_C8s_assembly" assemblyId="f6d9606c2689414ebcbc234f28e7e71b">
+<Part name="Tern_Link_C8" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0251084 0.693645 2.16411" rotation="AD: -0.9912541774283694 -0.18805583563140268 1.010276690807391 165.273" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.0603276 0.696586 2.0958" rotation="AD: 0.9933792678440545 -0.16468361226032346 0.9933792678440545 193.282" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

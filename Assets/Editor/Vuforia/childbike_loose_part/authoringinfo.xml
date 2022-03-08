@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="childbike_loose_part" targetId="97cd5c74da6242c49346a292ac849f81" version="11.1" toolVersion="9.8.5" bbox="-0.508301 -0.034463 -0.003890 0.122734 0.650243 0.889772" previewImage="97cd5c74da6242c49346a292ac849f81_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="childbike_loose_parts_assembly" assemblyId="491e37be49de44f7b93e1cd956755bb0">
+<Part name="childbike_loose_part" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.250628 0.0418914 2.12666" rotation="AD: 0.9978443142806883 0.14843152288960657 -0.5169378457476496 208.37" image="childbike_loose_part_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.150801 0.448138 1.56001" rotation="AD: 0.07039543643552522 -1.0830287205534923 2.5676923106689373 181.221" image="childbike_loose_part_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

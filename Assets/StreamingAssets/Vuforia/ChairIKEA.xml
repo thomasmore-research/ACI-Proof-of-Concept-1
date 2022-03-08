@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ChairIKEA" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="ChairIKEAs_assembly" assemblyId="184de3e734394d27abae9ae43399d117">
+<Part name="ChairIKEA" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.06949 0.533045 2.5304" rotation="AD: -0.9620775161587934 -0.4193965476975725 0.9670623643191831 147.406" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="0.138734 0.527199 2.37975" rotation="AD: 0.9999981141112014 0.021912779064236422 -0.09151487083541415 206.817" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="-0.117768 0.556436 2.30619" rotation="AD: -0.7106427898634295 0.703592616191919 94.23551968571644 180.006" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

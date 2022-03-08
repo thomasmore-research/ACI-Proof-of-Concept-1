@@ -1,0 +1,31 @@
+{
+  "name": "com.kyrylokuzyk.arfoundationremote",
+  "displayName": "AR Foundation Remote",
+  "version": "4.11.10",
+  "unity": "2019.2",
+  "dependencies": {
+    "com.unity.xr.arfoundation": "3.0.1",
+    "com.unity.xr.arsubsystems": "3.0.0",
+    "com.unity.xr.management": "3.0.4-preview.1",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.ugui": "1.0.0"
+  },
+  "description": "AR Foundation Remote is an Editor extension that allows you to transmit AR data from AR device to Unity Editor.\n\nThis plugin is developed to speed up the development process of AR projects.",
+  "keywords": [
+    "arfoundation",
+    "ar foundation",
+    "ar",
+    "augmented",
+    "xr",
+    "reality",
+    "remote"
+  ],
+  "author": {
+    "name": "Kyrylo Kuzyk",
+    "email": "kuzykkirill@gmail.com"
+  },
+  "type": "tool"
+}

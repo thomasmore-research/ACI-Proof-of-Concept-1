@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>293526686265-aqdenrcg19mecgd01rofel48stcjohuu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.293526686265-aqdenrcg19mecgd01rofel48stcjohuu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCttE8T0-Qnfdn_q5V9KOqpjZE8HElPMGU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>293526686265</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>be.thomasmore.ACIPOC1</string>
+	<key>PROJECT_ID</key>
+	<string>acipoc1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>acipoc1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:293526686265:ios:813423e3b4e32a2c7edbe8</string>
+	<key>DATABASE_URL</key>
+	<string>https://acipoc1-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Hercules_Versa_F7" motionHint="static" trackingMode="car"/>
+
+</Tracking>
+
+<Assembly name="Hercules_Versa_F7s_assembly" assemblyId="1868019243da4559828fb0464f0260ad">
+<Part name="Hercules_Versa_F7" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0446125 0.655869 2.26065" rotation="AD: 0.9925457622760918 0.17501259747712494 -0.9925457622760914 194.106" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.0782087 0.741149 2.30286" rotation="AD: 0.9926511596698735 -0.1730490186332264 0.9999226735965953 193.8" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

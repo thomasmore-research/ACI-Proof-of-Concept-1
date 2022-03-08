@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="blue_bike" targetId="e1814432e06846b49ab35d64e16a8891" version="11.1" toolVersion="9.8.5" bbox="-0.105907 0.003908 -0.285929 0.123741 0.384929 0.244003" previewImage="e1814432e06846b49ab35d64e16a8891_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="blue_bikes_assembly" assemblyId="efdd29e1733b468ba611b83e60561859">
+<Part name="blue_bike" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0156887 0.17138 0.958166" rotation="AD: 0.99467884144193 0.1959975278349186 -0.6530136754298578 207.81" image="blue_bike_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.019952 0.0731716 1.01351" rotation="AD: -0.02744714629400064 -1.0680986433094195 2.8385597224715924 179.61" image="blue_bike_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
